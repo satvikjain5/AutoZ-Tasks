@@ -108,7 +108,8 @@ String DecToHex(String n1){
         case 14:
           hexNum = "E" + hexNum;
           break;
- 
+
+          
         case 15:
           hexNum = "F" + hexnum;
           break;
