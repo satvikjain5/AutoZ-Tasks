@@ -10,4 +10,4 @@ Interfacing DC motor with l293d motor driver - https://drive.google.com/file/d/1
 Interfacing LCD and keypad (A) - https://drive.google.com/file/d/12cM4WQFXB5gbhOzhbtllDUwlV3Rk5Rg9/view?usp=sharing
 
 
-Interfacing LCD and keypad (B) - 
+Interfacing LCD and keypad (B) - https://drive.google.com/file/d/13EH4jYjdAg2rgGW7ji4fUSVK470YqCRl/view?usp=share_link
