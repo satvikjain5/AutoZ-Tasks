@@ -11,3 +11,6 @@ Interfacing LCD and keypad (A) - https://drive.google.com/file/d/12cM4WQFXB5gbhO
 
 
 Interfacing LCD and keypad (B) - https://drive.google.com/file/d/13EH4jYjdAg2rgGW7ji4fUSVK470YqCRl/view?usp=share_link
+
+
+30V voltage sensor - https://drive.google.com/file/d/1CU1lv8kL4QXz6OfmtccSL3O4cGaJE_D-/view?usp=share_link
