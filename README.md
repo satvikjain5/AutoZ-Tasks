@@ -1,5 +1,5 @@
 # AutoZ-Tasks
-Electronics Tasks submission by Satvik Jain (21BEC0361)
+Electronics and Electrical Tasks submission by Satvik Jain (21BEC0361)
 
 Interfacing 555 Timer Video Demonstration - https://drive.google.com/file/d/12WflvgQ6wyXB0CqXCFdQHFHlt3BN9ePG/view?usp=sharing
 
