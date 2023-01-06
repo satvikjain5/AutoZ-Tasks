@@ -14,3 +14,6 @@ Interfacing LCD and keypad (B) - https://drive.google.com/file/d/13EH4jYjdAg2rgG
 
 
 30V voltage sensor - https://drive.google.com/file/d/1CU1lv8kL4QXz6OfmtccSL3O4cGaJE_D-/view?usp=share_link
+
+
+Controlling the speed of a DC motor using variable resistor and semiconductor ics - https://drive.google.com/file/d/1hd5G1EtMgHTs6wPQ5U_4e4KtsqqjSPXX/view?usp=share_link
